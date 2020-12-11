@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 import java.util.List;
-
+//Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
 public class Main {
     public static void main(String[] args) {
         ArrayList<String> arrayList = new ArrayList<String>();//ArrayList yapı olarak Generic yapıdadır Integer ,Double, String ... Ogrenci,doctor .... gibi yapılara müsade eder.
